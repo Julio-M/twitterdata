@@ -1,4 +1,4 @@
-# Two python files which can be used to scrape Twitter. Each one is using a different wrapper. Therefore, the files are meant to be used separately!
+# Two python files which can be used to pull data from Twitter. Each one is using a different wrapper. Therefore, the files are meant to be used separately!
 
 ## Create a virtual enviroment
 
